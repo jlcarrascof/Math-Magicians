@@ -133,6 +133,6 @@ If you like this project, please give a ⭐️ (Thank you)
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
 
-This project is [MIT licensed](/LICENSE) .
+This project is [MIT licensed](/LICENSE.md) .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
