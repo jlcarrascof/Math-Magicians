@@ -4,9 +4,13 @@ import Buttons from './Buttons';
 
 function Calculator() {
   return (
-    <div className="calc">
-      <Buttons />
+    <div>
+      <h1 className="title">Math Magicians</h1>
+      <div className="calc">
+        <Buttons />
+      </div>
     </div>
   );
 }
+
 export default Calculator;
