@@ -11,37 +11,70 @@
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#table-of-contents)
-- [📖 Description](#description)
-- [⭐️ Features](#️app-features)
-- [🛠 Built With](#built-with)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-- [🛠 Technologies Used](#technologies-used)
-- [👥 Authors ](#-authors-)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support ](#️-show-your-support-)
-- [🙏 Acknowledgments ](#-acknowledgments-)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- DESCRIPTION -->
-## 📖 Description <a name="description"></a>
+## 📖 About the Project <a name="#about-project"></a>
 
 "Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read random math-related quotes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Javascript</summary>
+  <ul>
+    <li><a href="#">Javascript</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>HTML</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+
 <!-- FEATURES -->
-## ⭐️ Features <a name="app-features"></a>
+
+### ⭐️ Key Features <a name="key-features"></a>
 
 - Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 - Random Quote: Read and enjoy random math-related quotes to spark inspiration and curiosity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🛠 Built With <a name="built-with"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- React
-- Redux
+- [Live Demo Link](https://www.willbedeploywhenigottheapproved.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,16 +117,6 @@ npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- TECHNOLOGIES USED -->
-## 🛠 Technologies Used <a name="technologies-used"></a>
-
-- React: JavaScript library for building user interfaces.
-- HTML: Markup language for creating the structure of web pages.
-- CSS: Styling language for designing the visual presentation of web pages.
-- JavaScript: Programming language for implementing interactive functionality.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
 
@@ -107,6 +130,15 @@ npm run build
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ Use tests ] 
+- [ Deploy to GitHub Pages ] 
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
