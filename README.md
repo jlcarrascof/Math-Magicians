@@ -14,6 +14,7 @@
 - [📗 Table of Contents](#table-of-contents)
 - [📖 Description](#description)
 - [⭐️ Features](#️app-features)
+- [🛠 Built With](#built-with)
 - [💻 Getting Started](#getting-started)
 - [🛠 Technologies Used](#technologies-used)
 - [👥 Authors ](#-authors-)
@@ -34,6 +35,13 @@
 
 - Calculator: Perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 - Random Quote: Read and enjoy random math-related quotes to spark inspiration and curiosity.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🛠 Built With <a name="built-with"></a>
+
+- React
+- Redux
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
