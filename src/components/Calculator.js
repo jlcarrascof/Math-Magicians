@@ -9,13 +9,13 @@ function Calculator() {
         <h1 className="title">Math Magicians</h1>
         <ul className="menu">
           <li className="menu-item">
-            <Link to="/Math-Magicians">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li className="menu-item">
-            <Link to="/Math-Magicians/calculator">Calculator</Link>
+            <Link to="/calculator">Calculator</Link>
           </li>
           <li className="menu-item">
-            <Link to="/Math-Magicians/quote">Quote</Link>
+            <Link to="/quote">Quote</Link>
           </li>
         </ul>
       </nav>
