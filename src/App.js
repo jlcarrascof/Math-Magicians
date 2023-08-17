@@ -8,9 +8,9 @@ import Quote from './components/Quote';
 function App() {
   return (
     <Routes>
-      <Route path="/Math-Magicians" element={<Home />} />
-      <Route path="/Math-Magicians/calculator" element={<Calculator />} />
-      <Route path="/Math-Magicians/quote" element={<Quote />} />
+      <Route path="/" element={<Home />} />
+      <Route path="/calculator" element={<Calculator />} />
+      <Route path="/quote" element={<Quote />} />
     </Routes>
   );
 }
