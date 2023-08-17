@@ -11,7 +11,6 @@
 }
 
 body {
-  background-image: url(https://i.postimg.cc/LXQmv8Np/pexels-alexander-kovalev-2847648.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   overflow-y: hidden;
@@ -21,7 +20,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: crimson;
+  background-color: rgb(37, 232, 216);
   border-bottom: 2.5px solid #000;
   filter: brightness(150%);
   text-shadow: 0 0 3px rgb(255, 255, 255), 0 0 3px gray, 0 0 3px gray;
@@ -84,7 +83,7 @@ body {
 }
 
 .quote-container {
-  background-image: url(https://i.postimg.cc/W3DYkXLt/Rcd-Ad-Gdai-removebg-preview.png);
+  background-image: url(https://i.postimg.cc/J48vJnQ5/blackboard.png);;
   background-repeat: no-repeat;
   background-size: cover;
   width: 40rem;
@@ -96,6 +95,7 @@ body {
 
 .quote-text {
   margin: auto;
+  color: #fff;
   padding: 5rem 4rem 2rem 6.5rem;
   width: 95%;
   height: 100%;
@@ -105,6 +105,7 @@ body {
   width: 100%;
   height: 100%;
   padding-left: 55%;
+  color: #fff;
 }
 
 .loading-text {
