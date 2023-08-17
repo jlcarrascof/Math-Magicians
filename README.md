@@ -86,7 +86,7 @@ To get a local copy of the project up and running, follow these steps:
 ### Prerequisites
 Ensure that you have Node.js installed on your machine.
 
-### Installation
+### Setup
 Clone the repository to your local machine and navigate to the project directory.
 
 ```shell
@@ -94,21 +94,21 @@ git clone https://github.com/your-username/math-magicians.git
 cd math-magicians
 ```
 
-### Dependencies
+### Install
 Install the necessary dependencies using npm.
 
 ```shell
 npm install
 ```
 
-### Development
+### Usage
 Start the development server and open the website in your browser.
 
 ```shell
 npm start
 ```
 
-### Production
+### Deployment
 Build the optimized production-ready bundle.
 
 ```shell
@@ -135,10 +135,8 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ Use tests ] 
-- [ Deploy to GitHub Pages ] 
+- Use tests
+- Deploy to GitHub Pages 
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
@@ -151,16 +149,13 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 
 ## ⭐️ Show your support <a name="support"></a>
 
- 
 If you like this project, please give a ⭐️ (Thank you)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
 
 - I would like to thank Microverse for this learning opportunity.
 
